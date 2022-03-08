@@ -1,4 +1,4 @@
-parameter name  parameter value
+parameter name	parameter value
 parameter 1:	10
 parameter 2:	20
 parameter 3:	30
